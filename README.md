@@ -10,4 +10,4 @@ Este proyecto es una API REST con Node.js, Express y MongoDB que utiliza JWT par
 4. Ejecutar con `npm start` o `npx nodemon server.js`.
 
 ## Pipeline de CI/CD
-El archivo `.github/workflows/deploy.yml` contiene la configuración para el despliegue automático en Vercel/Render cada vez que se hace un push a la rama main.
+El archivo `.github/workflows/deploy.yml` contiene la configuración para el despliegue automático 
